@@ -1,0 +1,11 @@
+*.log
+*.pot
+*.pyc
+.project
+.pydevproject
+.settings
+build
+env*
+dist
+aldryn_background_image.egg-info
+.idea

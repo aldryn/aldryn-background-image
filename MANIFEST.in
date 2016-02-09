@@ -1,0 +1,4 @@
+include LICENSE.txt
+include README.md
+recursive-include aldryn_background_image/templates *
+recursive-exclude * *.pyc
